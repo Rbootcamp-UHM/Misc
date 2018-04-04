@@ -1,0 +1,47 @@
+PROGRAMS
+Anders, Simon, Paul Theodor Pyl, and Wolfgang Huber. "HTSeq—a Python framework to work with high-throughput sequencing data." Bioinformatics 31, no. 2 (2015): 166-169.
+Bray, Nicolas L., Harold Pimentel, Páll Melsted, and Lior Pachter. "Near-optimal probabilistic RNA-seq quantification." Nature biotechnology 34, no. 5 (2016): 525.
+Dobin, Alexander, Carrie A. Davis, Felix Schlesinger, Jorg Drenkow, Chris Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas R. Gingeras. "STAR: ultrafast universal RNA-seq aligner." Bioinformatics 29, no. 1 (2013): 15-21.
+Haas, Brian J., Alexie Papanicolaou, Moran Yassour, Manfred Grabherr, Philip D. Blood, Joshua Bowden, Matthew Brian Couger et al. "De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis." Nature protocols 8, no. 8 (2013): 1494.
+Hardcastle, Thomas J., and Krystyna A. Kelly. "baySeq: empirical Bayesian methods for identifying differential expression in sequence count data." BMC bioinformatics 11, no. 1 (2010): 422.
+Kim, Daehwan, Geo Pertea, Cole Trapnell, Harold Pimentel, Ryan Kelley, and Steven L. Salzberg. "TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions." Genome biology 14, no. 4 (2013): R36.
+Langmead, Ben, and Steven L. Salzberg. "Fast gapped-read alignment with Bowtie 2." Nature methods 9, no. 4 (2012): 357.
+Law, Charity W., Yunshun Chen, Wei Shi, and Gordon K. Smyth. "voom: Precision weights unlock linear model analysis tools for RNA-seq read counts." Genome biology 15, no. 2 (2014): R29.
+Li, Bo, and Colin N. Dewey. "RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome." BMC bioinformatics 12, no. 1 (2011): 323.
+Liao, Yang, Gordon K. Smyth, and Wei Shi. "The Subread aligner: fast, accurate and scalable read mapping by seed-and-vote." Nucleic acids research 41, no. 10 (2013): e108-e108.
+Liao, Yang, Gordon K. Smyth, and Wei Shi. "featureCounts: an efficient general purpose program for assigning sequence reads to genomic features." Bioinformatics 30, no. 7 (2013): 923-930.
+Love, Michael I., Wolfgang Huber, and Simon Anders. "Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2." Genome biology 15, no. 12 (2014): 550.
+Patro, Rob, Geet Duggal, Michael I. Love, Rafael A. Irizarry, and Carl Kingsford. "Salmon provides fast and bias-aware quantification of transcript expression." Nature methods 14, no. 4 (2017): 417.
+Patro, Rob, Stephen M. Mount, and Carl Kingsford. "Sailfish enables alignment-free isoform quantification from RNA-seq reads using lightweight algorithms." Nature biotechnology 32, no. 5 (2014): 462.
+Pertea, Mihaela, Daehwan Kim, Geo M. Pertea, Jeffrey T. Leek, and Steven L. Salzberg. "Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown." Nature protocols 11, no. 9 (2016): 1650.
+Ritchie, Matthew E., Belinda Phipson, Di Wu, Yifang Hu, Charity W. Law, Wei Shi, and Gordon K. Smyth. "limma powers differential expression analyses for RNA-sequencing and microarray studies." Nucleic acids research 43, no. 7 (2015): e47-e47.
+Robinson, Mark D., Davis J. McCarthy, and Gordon K. Smyth. "edgeR: a Bioconductor package for differential expression analysis of digital gene expression data." Bioinformatics 26, no. 1 (2010): 139-140.
+Wang, Likun, Zhixing Feng, Xi Wang, Xiaowo Wang, and Xuegong Zhang. "DEGseq: an R package for identifying differentially expressed genes from RNA-seq data." Bioinformatics 26, no. 1 (2009): 136-138.
+
+
+
+THEORY & PIPELINES
+Anders, S. and Huber, W., 2010. Differential expression analysis for sequence count data. Genome biology, 11(10), R106.
+Anders, Simon, Davis J. McCarthy, Yunshun Chen, Michal Okoniewski, Gordon K. Smyth, Wolfgang Huber, and Mark D. Robinson. "Count-based differential expression analysis of RNA sequencing data using R and Bioconductor." Nature protocols 8, no. 9 (2013): 1765.
+Conesa, Ana, Pedro Madrigal, Sonia Tarazona, David Gomez-Cabrero, Alejandra Cervera, Andrew McPherson, Michał Wojciech Szcześniak et al. "A survey of best practices for RNA-seq data analysis." Genome biology 17, no. 1 (2016): 13.
+Engström, Pär G., Tamara Steijger, Botond Sipos, Gregory R. Grant, André Kahles, Tyler Alioto, Jonas Behr et al. "Systematic evaluation of spliced alignment programs for RNA-seq data." Nature methods 10, no. 12 (2013): 1185.
+Garber, Manuel, Manfred G. Grabherr, Mitchell Guttman, and Cole Trapnell. "Computational methods for transcriptome annotation and quantification using RNA-seq." Nature methods 8, no. 6 (2011): 469.
+Huber, Wolfgang, Vincent J. Carey, Robert Gentleman, Simon Anders, Marc Carlson, Benilton S. Carvalho, Hector Corrada Bravo et al. "Orchestrating high-throughput genomic analysis with Bioconductor." Nature methods 12, no. 2 (2015): 115.
+Lun, Aaron TL, Yunshun Chen, and Gordon K. Smyth. "It’s DE-licious: a recipe for differential expression analyses of RNA-seq experiments using quasi-likelihood methods in edgeR." Statistical Genomics: Methods and Protocols (2016): 391-416.
+Lund, Steven P., Dan Nettleton, Davis J. McCarthy, and Gordon K. Smyth. "Detecting differential expression in RNA-sequence data using quasi-likelihood with shrunken dispersion estimates." Statistical applications in genetics and molecular biology 11, no. 5 (2012).
+Martin, Jeffrey A., and Zhong Wang. "Next-generation transcriptome assembly." Nature Reviews Genetics 12, no. 10 (2011): 671.
+Metzker, Michael L. "Sequencing technologies—the next generation." Nature reviews genetics 11, no. 1 (2010): 31.
+Mortazavi, Ali, Brian A. Williams, Kenneth McCue, Lorian Schaeffer, and Barbara Wold. "Mapping and quantifying mammalian transcriptomes by RNA-Seq." Nature methods 5, no. 7 (2008): 621.
+Ozsolak, Fatih, and Patrice M. Milos. "RNA sequencing: advances, challenges and opportunities." Nature reviews genetics 12, no. 2 (2011): 87.
+Robinson, Mark D., and Alicia Oshlack. "A scaling normalization method for differential expression analysis of RNA-seq data." Genome biology 11, no. 3 (2010): R25.
+Schurch, Nicholas J., Pietá Schofield, Marek Gierliński, Christian Cole, Alexander Sherstnev, Vijender Singh, Nicola Wrobel et al. "How many biological replicates are needed in an RNA-seq experiment and which differential expression tool should you use?." Rna 22, no. 6 (2016): 839-851.
+Soneson, Charlotte, and Mauro Delorenzi. "A comparison of methods for differential expression analysis of RNA-seq data." BMC bioinformatics 14, no. 1 (2013): 91.
+Soneson, Charlotte, Michael I. Love, and Mark D. Robinson. "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences." F1000Research 4 (2015).
+Steijger, Tamara, Josep F. Abril, Pär G. Engström, Felix Kokocinski, Martin Akerman, Tyler Alioto, Giovanna Ambrosini et al. "Assessment of transcript reconstruction methods for RNA-seq." Nature methods 10, no. 12 (2013): 1177.
+Stephens, Zachary D., Skylar Y. Lee, Faraz Faghri, Roy H. Campbell, Chengxiang Zhai, Miles J. Efron, Ravishankar Iyer, Michael C. Schatz, Saurabh Sinha, and Gene E. Robinson. "Big data: astronomical or genomical?." PLoS biology 13, no. 7 (2015): e1002195.
+Su, Zhenqiang, Paweł P. Łabaj, Sheng Li, Jean Thierry-Mieg, Danielle Thierry-Mieg, Wei Shi, Charles Wang et al. "A comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium." Nature biotechnology 32, no. 9 (2014): 903.
+Svensson, Valentine, Kedar Nath Natarajan, Lam-Ha Ly, Ricardo J. Miragaia, Charlotte Labalette, Iain C. Macaulay, Ana Cvejic, and Sarah A. Teichmann. "Power analysis of single-cell RNA-sequencing experiments." Nature methods 14, no. 4 (2017): 381.
+Trapnell, Cole, Adam Roberts, Loyal Goff, Geo Pertea, Daehwan Kim, David R. Kelley, Harold Pimentel, Steven L. Salzberg, John L. Rinn, and Lior Pachter. "Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks." Nature protocols 7, no. 3 (2012): 562.
+Trapnell, Cole, David G. Hendrickson, Martin Sauvageau, Loyal Goff, John L. Rinn, and Lior Pachter. "Differential analysis of gene regulation at transcript resolution with RNA-seq." Nature biotechnology 31, no. 1 (2013): 46.
+Wang, Zhong, Mark Gerstein, and Michael Snyder. "RNA-Seq: a revolutionary tool for transcriptomics." Nature reviews genetics 10, no. 1 (2009): 57.
+Ziegenhain, Christoph, Beate Vieth, Swati Parekh, Björn Reinius, Amy Guillaumet-Adkins, Martha Smets, Heinrich Leonhardt, Holger Heyn, Ines Hellmann, and Wolfgang Enard. "Comparative analysis of single-cell RNA sequencing methods." Molecular cell 65, no. 4 (2017): 631-643.
